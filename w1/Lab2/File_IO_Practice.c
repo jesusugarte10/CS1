@@ -1,3 +1,5 @@
+//File opening practice
+
 #include <stdio.h>
 #include <stdlib.h>
 #define MAX 500
