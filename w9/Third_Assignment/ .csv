@@ -1,0 +1,4 @@
+DataSize, SelectionSortCompare, SelectionSortCopy, SelectionSortTime, BubbleSortCompare, BubbleSortCopy, BubbleSortTime, InsertionSortCompare, InsertionSortCopy, InsertionSortTime, MergeSortCompare, MergeSortCopy, MergeSortTime, Merge_InsertionSortCompare, Merge_InsertionSortCompareCopy, Merge_InsertionSortCompareTime, QuickSortCompare, QuickSortCopy, QuickSortTime
+10000 ,49995000, 29997, 0.574591 ,49995000, 74790471, 1.638072 ,24940147, 24950155, 0.442699 ,120572, 267232, 0.024705 ,120572, 267232, 0.030763 ,155742, 114843, 0.006858
+
+

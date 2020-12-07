@@ -1,0 +1,612 @@
+
+========
+Processing Criteria 1 and file 10K.txt
+========
+Array status: not sorted by name before calling selection sort
+Array status: sorted by name after calling selection sort
+Total time taken time_taken second
+Total number of comparisons 49995000
+Total number of copy operations 29997
+Array status: not sorted by name before calling bubble sort
+Array status: sorted by name after calling bubble sort
+Total time taken time_taken second
+Total number of comparisons 49995000
+Total number of copy operations 74790471
+Array status: not sorted by name before calling insertion sort
+Array status: sorted by name after calling insertion sort
+Total time taken time_taken second
+Total number of comparisons 24940147
+Total number of copy operations 24950155
+Array status: not sorted by name before calling merge sort
+Array status: sorted by name after calling merge sort
+Total time taken time_taken second
+Total number of comparisons 120572
+Total number of copy operations 267232
+Array status: not sorted by name before calling merge/insertion sort
+Array status: sorted by name after calling merge/insertion sort
+Total time taken time_taken second
+Total number of comparisons 143846
+Total number of copy operations 245555
+Array status: not sorted by name before calling quick sort
+Array status: sorted by name after calling quick sort
+Total time taken time_taken second
+Total number of comparisons 156070
+Total number of copy operations 113814
+
+========
+Processing Criteria 1 and file 20K.txt
+========
+Array status: not sorted by name before calling selection sort
+Array status: sorted by name after calling selection sort
+Total time taken time_taken second
+Total number of comparisons 199990000
+Total number of copy operations 59997
+Array status: not sorted by name before calling bubble sort
+Array status: sorted by name after calling bubble sort
+Total time taken time_taken second
+Total number of comparisons 199990000
+Total number of copy operations 301237767
+Array status: not sorted by name before calling insertion sort
+Array status: sorted by name after calling insertion sort
+Total time taken time_taken second
+Total number of comparisons 100432578
+Total number of copy operations 100452587
+Array status: not sorted by name before calling merge sort
+Array status: sorted by name after calling merge sort
+Total time taken time_taken second
+Total number of comparisons 261065
+Total number of copy operations 574464
+Array status: not sorted by name before calling merge/insertion sort
+Array status: sorted by name after calling merge/insertion sort
+Total time taken time_taken second
+Total number of comparisons 307095
+Total number of copy operations 530611
+Array status: not sorted by name before calling quick sort
+Array status: sorted by name after calling quick sort
+Total time taken time_taken second
+Total number of comparisons 354562
+Total number of copy operations 240213
+
+========
+Processing Criteria 1 and file 30K.txt
+========
+Array status: not sorted by name before calling selection sort
+Array status: sorted by name after calling selection sort
+Total time taken time_taken second
+Total number of comparisons 449985000
+Total number of copy operations 89997
+Array status: not sorted by name before calling bubble sort
+Array status: sorted by name after calling bubble sort
+Total time taken time_taken second
+Total number of comparisons 449985000
+Total number of copy operations 679601919
+Array status: not sorted by name before calling insertion sort
+Array status: sorted by name after calling insertion sort
+Total time taken time_taken second
+Total number of comparisons 226563962
+Total number of copy operations 226593971
+Array status: not sorted by name before calling merge sort
+Array status: sorted by name after calling merge sort
+Total time taken time_taken second
+Total number of comparisons 408638
+Total number of copy operations 894464
+Array status: not sorted by name before calling merge/insertion sort
+Array status: sorted by name after calling merge/insertion sort
+Total time taken time_taken second
+Total number of comparisons 452628
+Total number of copy operations 819163
+Array status: not sorted by name before calling quick sort
+Array status: sorted by name after calling quick sort
+Total time taken time_taken second
+Total number of comparisons 544259
+Total number of copy operations 375714
+
+========
+Processing Criteria 1 and file 40K.txt
+========
+Array status: not sorted by name before calling selection sort
+Array status: sorted by name after calling selection sort
+Total time taken time_taken second
+Total number of comparisons 799980000
+Total number of copy operations 119997
+Array status: not sorted by name before calling bubble sort
+Array status: sorted by name after calling bubble sort
+Total time taken time_taken second
+Total number of comparisons 799980000
+Total number of copy operations 1208326248
+Array status: not sorted by name before calling insertion sort
+Array status: sorted by name after calling insertion sort
+Total time taken time_taken second
+Total number of comparisons 402815405
+Total number of copy operations 402855414
+Array status: not sorted by name before calling merge sort
+Array status: sorted by name after calling merge sort
+Total time taken time_taken second
+Total number of comparisons 561830
+Total number of copy operations 1228928
+Array status: not sorted by name before calling merge/insertion sort
+Array status: sorted by name after calling merge/insertion sort
+Total time taken time_taken second
+Total number of comparisons 655316
+Total number of copy operations 1142470
+Array status: not sorted by name before calling quick sort
+Array status: sorted by name after calling quick sort
+Total time taken time_taken second
+Total number of comparisons 732944
+Total number of copy operations 513450
+
+========
+Processing Criteria 1 and file 50K.txt
+========
+Array status: not sorted by name before calling selection sort
+Array status: sorted by name after calling selection sort
+Total time taken time_taken second
+Total number of comparisons 1249975000
+Total number of copy operations 149997
+Array status: not sorted by name before calling bubble sort
+Array status: sorted by name after calling bubble sort
+Total time taken time_taken second
+Total number of comparisons 1249975000
+Total number of copy operations 1890294660
+Array status: not sorted by name before calling insertion sort
+Array status: sorted by name after calling insertion sort
+Total time taken time_taken second
+Total number of comparisons 630148209
+Total number of copy operations 630198218
+Array status: not sorted by name before calling merge sort
+Array status: sorted by name after calling merge sort
+Total time taken time_taken second
+Total number of comparisons 718177
+Total number of copy operations 1568928
+Array status: not sorted by name before calling merge/insertion sort
+Array status: sorted by name after calling merge/insertion sort
+Total time taken time_taken second
+Total number of comparisons 831955
+Total number of copy operations 1462592
+Array status: not sorted by name before calling quick sort
+Array status: sorted by name after calling quick sort
+Total time taken time_taken second
+Total number of comparisons 964370
+Total number of copy operations 654714
+
+========
+Processing Criteria 1 and file 60K.txt
+========
+Array status: not sorted by name before calling selection sort
+Array status: sorted by name after calling selection sort
+Total time taken time_taken second
+Total number of comparisons 1799970000
+Total number of copy operations 179997
+Array status: not sorted by name before calling bubble sort
+Array status: sorted by name after calling bubble sort
+Total time taken time_taken second
+Total number of comparisons 1799970000
+Total number of copy operations 2712594297
+Array status: not sorted by name before calling insertion sort
+Array status: sorted by name after calling insertion sort
+Total time taken time_taken second
+Total number of comparisons 904258087
+Total number of copy operations 904318097
+Array status: not sorted by name before calling merge sort
+Array status: sorted by name after calling merge sort
+Total time taken time_taken second
+Total number of comparisons 877199
+Total number of copy operations 1908928
+Array status: not sorted by name before calling merge/insertion sort
+Array status: sorted by name after calling merge/insertion sort
+Total time taken time_taken second
+Total number of comparisons 964549
+Total number of copy operations 1757655
+Array status: not sorted by name before calling quick sort
+Array status: sorted by name after calling quick sort
+Total time taken time_taken second
+Total number of comparisons 1143044
+Total number of copy operations 797163
+
+========
+Processing Criteria 2 and file 10K.txt
+========
+Array status: not sorted by weight before calling selection sort
+Array status: sorted by weight after calling selection sort
+Total time taken time_taken second
+Total number of comparisons 49995000
+Total number of copy operations 29997
+Array status: not sorted by weight before calling bubble sort
+Array status: sorted by weight after calling bubble sort
+Total time taken time_taken second
+Total number of comparisons 49995000
+Total number of copy operations 812196
+Array status: not sorted by weight before calling insertion sort
+Array status: sorted by weight after calling insertion sort
+Total time taken time_taken second
+Total number of comparisons 280730
+Total number of copy operations 290730
+Array status: not sorted by weight before calling merge sort
+Array status: sorted by weight after calling merge sort
+Total time taken time_taken second
+Total number of comparisons 111076
+Total number of copy operations 267232
+Array status: not sorted by weight before calling merge/insertion sort
+Array status: sorted by weight after calling merge/insertion sort
+Total time taken time_taken second
+Total number of comparisons 123987
+Total number of copy operations 234885
+Array status: not sorted by weight before calling quick sort
+Array status: sorted by weight after calling quick sort
+Total time taken time_taken second
+Total number of comparisons 3988965
+Total number of copy operations 87402
+
+========
+Processing Criteria 2 and file 20K.txt
+========
+Array status: not sorted by weight before calling selection sort
+Array status: sorted by weight after calling selection sort
+Total time taken time_taken second
+Total number of comparisons 199990000
+Total number of copy operations 59997
+Array status: not sorted by weight before calling bubble sort
+Array status: sorted by weight after calling bubble sort
+Total time taken time_taken second
+Total number of comparisons 199990000
+Total number of copy operations 1604040
+Array status: not sorted by weight before calling insertion sort
+Array status: sorted by weight after calling insertion sort
+Total time taken time_taken second
+Total number of comparisons 554678
+Total number of copy operations 574678
+Array status: not sorted by weight before calling merge sort
+Array status: sorted by weight after calling merge sort
+Total time taken time_taken second
+Total number of comparisons 237408
+Total number of copy operations 574464
+Array status: not sorted by weight before calling merge/insertion sort
+Array status: sorted by weight after calling merge/insertion sort
+Total time taken time_taken second
+Total number of comparisons 262082
+Total number of copy operations 509033
+Array status: not sorted by weight before calling quick sort
+Array status: sorted by weight after calling quick sort
+Total time taken time_taken second
+Total number of comparisons 16542380
+Total number of copy operations 171732
+
+========
+Processing Criteria 2 and file 30K.txt
+========
+Array status: not sorted by weight before calling selection sort
+Array status: sorted by weight after calling selection sort
+Total time taken time_taken second
+Total number of comparisons 449985000
+Total number of copy operations 89997
+Array status: not sorted by weight before calling bubble sort
+Array status: sorted by weight after calling bubble sort
+Total time taken time_taken second
+Total number of comparisons 449985000
+Total number of copy operations 2406024
+Array status: not sorted by weight before calling insertion sort
+Array status: sorted by weight after calling insertion sort
+Total time taken time_taken second
+Total number of comparisons 832006
+Total number of copy operations 862006
+Array status: not sorted by weight before calling merge sort
+Array status: sorted by weight after calling merge sort
+Total time taken time_taken second
+Total number of comparisons 369392
+Total number of copy operations 894464
+Array status: not sorted by weight before calling merge/insertion sort
+Array status: sorted by weight after calling merge/insertion sort
+Total time taken time_taken second
+Total number of comparisons 391233
+Total number of copy operations 795378
+Array status: not sorted by weight before calling quick sort
+Array status: sorted by weight after calling quick sort
+Total time taken time_taken second
+Total number of comparisons 34593426
+Total number of copy operations 260016
+
+========
+Processing Criteria 2 and file 40K.txt
+========
+Array status: not sorted by weight before calling selection sort
+Array status: sorted by weight after calling selection sort
+Total time taken time_taken second
+Total number of comparisons 799980000
+Total number of copy operations 119997
+Array status: not sorted by weight before calling bubble sort
+Array status: sorted by weight after calling bubble sort
+Total time taken time_taken second
+Total number of comparisons 799980000
+Total number of copy operations 3203667
+Array status: not sorted by weight before calling insertion sort
+Array status: sorted by weight after calling insertion sort
+Total time taken time_taken second
+Total number of comparisons 1107887
+Total number of copy operations 1147887
+Array status: not sorted by weight before calling merge sort
+Array status: sorted by weight after calling merge sort
+Total time taken time_taken second
+Total number of comparisons 506249
+Total number of copy operations 1228928
+Array status: not sorted by weight before calling merge/insertion sort
+Array status: sorted by weight after calling merge/insertion sort
+Total time taken time_taken second
+Total number of comparisons 554997
+Total number of copy operations 1097634
+Array status: not sorted by weight before calling quick sort
+Array status: sorted by weight after calling quick sort
+Total time taken time_taken second
+Total number of comparisons 61782686
+Total number of copy operations 347928
+
+========
+Processing Criteria 2 and file 50K.txt
+========
+Array status: not sorted by weight before calling selection sort
+Array status: sorted by weight after calling selection sort
+Total time taken time_taken second
+Total number of comparisons 1249975000
+Total number of copy operations 149997
+Array status: not sorted by weight before calling bubble sort
+Array status: sorted by weight after calling bubble sort
+Total time taken time_taken second
+Total number of comparisons 1249975000
+Total number of copy operations 4023648
+Array status: not sorted by weight before calling insertion sort
+Array status: sorted by weight after calling insertion sort
+Total time taken time_taken second
+Total number of comparisons 1391214
+Total number of copy operations 1441214
+Array status: not sorted by weight before calling merge sort
+Array status: sorted by weight after calling merge sort
+Total time taken time_taken second
+Total number of comparisons 644561
+Total number of copy operations 1568928
+Array status: not sorted by weight before calling merge/insertion sort
+Array status: sorted by weight after calling merge/insertion sort
+Total time taken time_taken second
+Total number of comparisons 705452
+Total number of copy operations 1409367
+Array status: not sorted by weight before calling quick sort
+Array status: sorted by weight after calling quick sort
+Total time taken time_taken second
+Total number of comparisons 85307723
+Total number of copy operations 438726
+
+========
+Processing Criteria 2 and file 60K.txt
+========
+Array status: not sorted by weight before calling selection sort
+Array status: sorted by weight after calling selection sort
+Total time taken time_taken second
+Total number of comparisons 1799970000
+Total number of copy operations 179997
+Array status: not sorted by weight before calling bubble sort
+Array status: sorted by weight after calling bubble sort
+Total time taken time_taken second
+Total number of comparisons 1799970000
+Total number of copy operations 4837788
+Array status: not sorted by weight before calling insertion sort
+Array status: sorted by weight after calling insertion sort
+Total time taken time_taken second
+Total number of comparisons 1672594
+Total number of copy operations 1732594
+Array status: not sorted by weight before calling merge sort
+Array status: sorted by weight after calling merge sort
+Total time taken time_taken second
+Total number of comparisons 784894
+Total number of copy operations 1908928
+Array status: not sorted by weight before calling merge/insertion sort
+Array status: sorted by weight after calling merge/insertion sort
+Total time taken time_taken second
+Total number of comparisons 828722
+Total number of copy operations 1711304
+Array status: not sorted by weight before calling quick sort
+Array status: sorted by weight after calling quick sort
+Total time taken time_taken second
+Total number of comparisons 133484604
+Total number of copy operations 526344
+
+========
+Processing Criteria 3 and file 10K.txt
+========
+Array status: not sorted by name and weight before calling selection sort
+Array status: sorted by name and weight after calling selection sort
+Total time taken time_taken second
+Total number of comparisons 49995000
+Total number of copy operations 29997
+Array status: not sorted by name and weight before calling bubble sort
+Array status: sorted by name and weight after calling bubble sort
+Total time taken time_taken second
+Total number of comparisons 49995000
+Total number of copy operations 811953
+Array status: not sorted by name and weight before calling insertion sort
+Array status: sorted by name and weight after calling insertion sort
+Total time taken time_taken second
+Total number of comparisons 280649
+Total number of copy operations 290649
+Array status: not sorted by name and weight before calling merge sort
+Array status: sorted by name and weight after calling merge sort
+Total time taken time_taken second
+Total number of comparisons 111076
+Total number of copy operations 267232
+Array status: not sorted by name and weight before calling merge/insertion sort
+Array status: sorted by name and weight after calling merge/insertion sort
+Total time taken time_taken second
+Total number of comparisons 123986
+Total number of copy operations 234884
+Array status: not sorted by name and weight before calling quick sort
+Array status: sorted by name and weight after calling quick sort
+Total time taken time_taken second
+Total number of comparisons 3803050
+Total number of copy operations 86997
+
+========
+Processing Criteria 3 and file 20K.txt
+========
+Array status: not sorted by name and weight before calling selection sort
+Array status: sorted by name and weight after calling selection sort
+Total time taken time_taken second
+Total number of comparisons 199990000
+Total number of copy operations 59997
+Array status: not sorted by name and weight before calling bubble sort
+Array status: sorted by name and weight after calling bubble sort
+Total time taken time_taken second
+Total number of comparisons 199990000
+Total number of copy operations 1603797
+Array status: not sorted by name and weight before calling insertion sort
+Array status: sorted by name and weight after calling insertion sort
+Total time taken time_taken second
+Total number of comparisons 554597
+Total number of copy operations 574597
+Array status: not sorted by name and weight before calling merge sort
+Array status: sorted by name and weight after calling merge sort
+Total time taken time_taken second
+Total number of comparisons 237408
+Total number of copy operations 574464
+Array status: not sorted by name and weight before calling merge/insertion sort
+Array status: sorted by name and weight after calling merge/insertion sort
+Total time taken time_taken second
+Total number of comparisons 262081
+Total number of copy operations 509032
+Array status: not sorted by name and weight before calling quick sort
+Array status: sorted by name and weight after calling quick sort
+Total time taken time_taken second
+Total number of comparisons 15833480
+Total number of copy operations 173610
+
+========
+Processing Criteria 3 and file 30K.txt
+========
+Array status: not sorted by name and weight before calling selection sort
+Array status: sorted by name and weight after calling selection sort
+Total time taken time_taken second
+Total number of comparisons 449985000
+Total number of copy operations 89997
+Array status: not sorted by name and weight before calling bubble sort
+Array status: sorted by name and weight after calling bubble sort
+Total time taken time_taken second
+Total number of comparisons 449985000
+Total number of copy operations 2405781
+Array status: not sorted by name and weight before calling insertion sort
+Array status: sorted by name and weight after calling insertion sort
+Total time taken time_taken second
+Total number of comparisons 831925
+Total number of copy operations 861925
+Array status: not sorted by name and weight before calling merge sort
+Array status: sorted by name and weight after calling merge sort
+Total time taken time_taken second
+Total number of comparisons 369392
+Total number of copy operations 894464
+Array status: not sorted by name and weight before calling merge/insertion sort
+Array status: sorted by name and weight after calling merge/insertion sort
+Total time taken time_taken second
+Total number of comparisons 391233
+Total number of copy operations 795378
+Array status: not sorted by name and weight before calling quick sort
+Array status: sorted by name and weight after calling quick sort
+Total time taken time_taken second
+Total number of comparisons 33522179
+Total number of copy operations 261633
+
+========
+Processing Criteria 3 and file 40K.txt
+========
+Array status: not sorted by name and weight before calling selection sort
+Array status: sorted by name and weight after calling selection sort
+Total time taken time_taken second
+Total number of comparisons 799980000
+Total number of copy operations 119997
+Array status: not sorted by name and weight before calling bubble sort
+Array status: sorted by name and weight after calling bubble sort
+Total time taken time_taken second
+Total number of comparisons 799980000
+Total number of copy operations 3203424
+Array status: not sorted by name and weight before calling insertion sort
+Array status: sorted by name and weight after calling insertion sort
+Total time taken time_taken second
+Total number of comparisons 1107806
+Total number of copy operations 1147806
+Array status: not sorted by name and weight before calling merge sort
+Array status: sorted by name and weight after calling merge sort
+Total time taken time_taken second
+Total number of comparisons 506249
+Total number of copy operations 1228928
+Array status: not sorted by name and weight before calling merge/insertion sort
+Array status: sorted by name and weight after calling merge/insertion sort
+Total time taken time_taken second
+Total number of comparisons 554996
+Total number of copy operations 1097633
+Array status: not sorted by name and weight before calling quick sort
+Array status: sorted by name and weight after calling quick sort
+Total time taken time_taken second
+Total number of comparisons 56636151
+Total number of copy operations 355023
+
+========
+Processing Criteria 3 and file 50K.txt
+========
+Array status: not sorted by name and weight before calling selection sort
+Array status: sorted by name and weight after calling selection sort
+Total time taken time_taken second
+Total number of comparisons 1249975000
+Total number of copy operations 149997
+Array status: not sorted by name and weight before calling bubble sort
+Array status: sorted by name and weight after calling bubble sort
+Total time taken time_taken second
+Total number of comparisons 1249975000
+Total number of copy operations 4023405
+Array status: not sorted by name and weight before calling insertion sort
+Array status: sorted by name and weight after calling insertion sort
+Total time taken time_taken second
+Total number of comparisons 1391133
+Total number of copy operations 1441133
+Array status: not sorted by name and weight before calling merge sort
+Array status: sorted by name and weight after calling merge sort
+Total time taken time_taken second
+Total number of comparisons 644561
+Total number of copy operations 1568928
+Array status: not sorted by name and weight before calling merge/insertion sort
+Array status: sorted by name and weight after calling merge/insertion sort
+Total time taken time_taken second
+Total number of comparisons 705452
+Total number of copy operations 1409367
+Array status: not sorted by name and weight before calling quick sort
+Array status: sorted by name and weight after calling quick sort
+Total time taken time_taken second
+Total number of comparisons 93713698
+Total number of copy operations 436815
+
+========
+Processing Criteria 3 and file 60K.txt
+========
+Array status: not sorted by name and weight before calling selection sort
+Array status: sorted by name and weight after calling selection sort
+Total time taken time_taken second
+Total number of comparisons 1799970000
+Total number of copy operations 179997
+Array status: not sorted by name and weight before calling bubble sort
+Array status: sorted by name and weight after calling bubble sort
+Total time taken time_taken second
+Total number of comparisons 1799970000
+Total number of copy operations 4837545
+Array status: not sorted by name and weight before calling insertion sort
+Array status: sorted by name and weight after calling insertion sort
+Total time taken time_taken second
+Total number of comparisons 1672513
+Total number of copy operations 1732513
+Array status: not sorted by name and weight before calling merge sort
+Array status: sorted by name and weight after calling merge sort
+Total time taken time_taken second
+Total number of comparisons 784894
+Total number of copy operations 1908928
+Array status: not sorted by name and weight before calling merge/insertion sort
+Array status: sorted by name and weight after calling merge/insertion sort
+Total time taken time_taken second
+Total number of comparisons 828722
+Total number of copy operations 1711304
+Array status: not sorted by name and weight before calling quick sort
+Array status: sorted by name and weight after calling quick sort
+Total time taken time_taken second
+Total number of comparisons 124042080
+Total number of copy operations 527901
